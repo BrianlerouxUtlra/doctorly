@@ -35,10 +35,10 @@ Set the Doctorly.API_ project as the startup project.
 
 Press F5 or click the "Start" button in Visual Studio to run the project.
 
-The API will start and be accessible at http://localhost:5041.
+The API will start and be accessible at http://localhost:xxxx(availalbe port).
 
 API Documentation
-After running the project, navigate to http://localhost:5041/swagger in your web browser to view the Swagger documentation.
+After running the project, navigate to http://localhost:{yourPort}/swagger in your web browser to view the Swagger documentation.
 Usage
 Use a REST client like Postman or Swagger UI to interact with the API endpoints.
 
